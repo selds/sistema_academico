@@ -1,26 +1,8 @@
-# Quasar App (sistema_academico)
+# Sistema Acadêmico
 
 Build inicial do Sistema Academico
 
-## Install the dependencies
+# v1.0
 ```bash
-yarn
+Upload do código-fonte para o Github.
 ```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-### Lint the files
-```bash
-yarn run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
